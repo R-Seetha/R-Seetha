@@ -1,8 +1,3 @@
-# Lead-Scoring-Case-Study
-
-![image](https://user-images.githubusercontent.com/124515595/235360693-0d24bbe5-fe69-42f2-a3fd-edd6fead4b75.png)
-
-
 ## Business Objective
 We must group the leads into hot and cold leads in order to categories them. Evaluating historical data from X Education Company will be used to do this. The employee of the company will next concentrate on effectively communicating with the hot leads in order to get the majority of them to convert. We have a target conversion rate of 80%, thus in order to hit that goal, we must appropriately classify the leads.
 ## Steps Followed
